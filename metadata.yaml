@@ -1,0 +1,29 @@
+_repo: Sister-Carrie--a-Novel_233
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dreiser, Theodore
+    birthdate: 1871
+    deathdate: 1945
+    gutenberg_agent_id: '130'
+    url: http://www.gutenberg.org/2009/agents/130
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Dreiser
+description: ''
+gutenberg_issued: '1995-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '233'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Didactic fiction'
+- !lcsh 'Mistresses -- Fiction'
+- !lcsh 'Chicago (Ill.) -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- GITenberg
+title: 'Sister Carrie: A Novel'
+url: http://www.gutenberg.org/ebooks/233
